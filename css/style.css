@@ -96,11 +96,12 @@ body {
     .navbar .dropdown-menu {
         margin-top: 0px;
     }
+    
     ul.nav li.dropdown:hover {
         background-color: #0B5172;
     }
-    
+    /*
     ul.nav li.dropdown:hover > ul.dropdown-menu {
         display: block;    
-    }
+    }*/
 }
