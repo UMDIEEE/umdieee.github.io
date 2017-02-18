@@ -105,3 +105,13 @@ body {
         display: block;    
     }*/
 }
+
+@media (max-width: 767px) {
+    .navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+        color: #fff;
+    }
+
+    .dropdown-header {
+        color: #fff;
+    }
+}
