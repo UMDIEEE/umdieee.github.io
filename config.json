@@ -1,0 +1,60 @@
+{
+    "files": [
+                {
+                    "src" : "home.html",
+                    "dst" : "index.html"
+                },
+                {
+                    "src" : "about/about.html",
+                    "dst" : "about/index.html"
+                },
+                {
+                    "src" : "about/sponsorship.html",
+                    "dst" : "about/sponsorship/index.html"
+                },
+                {
+                    "src" : "about/officers.html",
+                    "dst" : "about/officers/index.html"
+                },
+                {
+                    "src" : "pictures.html",
+                    "dst" : "pictures/index.html"
+                },
+                {
+                    "src" : "contact.html",
+                    "dst" : "contact/index.html"
+                },
+                {
+                    "src" : "join.html",
+                    "dst" : "join/index.html"
+                },
+                {
+                    "src" : "members/resources/testbank.html",
+                    "dst" : "members/resources/testbank/index.html"
+                },
+                {
+                    "src" : "members/resources/ieee_membership.html",
+                    "dst" : "members/resources/ieee/index.html"
+                },
+                {
+                    "src" : "members/resources/lounge.html",
+                    "dst" : "members/resources/lounge/index.html"
+                },
+                {
+                    "src" : "members/resources/testbank.html",
+                    "dst" : "members/resources/testbank/index.html"
+                },
+                {
+                    "src" : "members/involvement/projects.html",
+                    "dst" : "members/involvement/projects/index.html"
+                },
+                {
+                    "src" : "members/involvement/competitions.html",
+                    "dst" : "members/involvement/competitions/index.html"
+                },
+                {
+                    "src" : "members/involvement/board.html",
+                    "dst" : "members/involvement/board/index.html"
+                }
+        ]
+}
